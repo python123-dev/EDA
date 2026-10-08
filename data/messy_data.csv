@@ -1,0 +1,16 @@
+name,dept,gender,age,marks,attendance,city,join_date
+  arun ,CSE,M,21,78,92,chennai,2022-06-15
+Bala,ece,M,22,65,80,MADURAI,2022-06-16
+Chitra,CSE,F,21,,95,Chennai,2022-06-15
+Divya,IT,F,,72,85,Coimbatore,2022-06-17
+Elango,MECH,M,23,55,70,trichy,2022-06-18
+Elango,MECH,M,23,55,70,trichy,2022-06-18
+Fathima,ECE,F,21,91,98,Chennai,2022-06-15
+Gokul,IT,M,22,60,,Madurai,2022-06-19
+Hema,cse,F,21,84,90,Coimbatore,2022-06-16
+Imran,MECH,M,22,480,65,Trichy,2022-06-20
+Janani,IT,F,21,95,99,,2022-06-15
+Karthik,CSE,M,230,69,82,Madurai,2022-06-17
+Lakshmi,ECE,F,22,76,88,Coimbatore,2022-06-18
+Manoj,MECH,M,21,81,86,Chennai,2022-06-19
+Nisha,IT,F,22,58,72,Trichy,2022-06-20
